@@ -1,7 +1,5 @@
 package com.com.springboot.setterInjuction;
 
-import com.com.springboot.setterInjuction.Car;
-import com.com.springboot.setterInjuction.Employee;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;

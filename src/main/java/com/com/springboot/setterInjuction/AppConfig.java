@@ -1,6 +1,5 @@
 package com.com.springboot.setterInjuction;
 
-import com.com.springboot.setterInjuction.Employee;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
