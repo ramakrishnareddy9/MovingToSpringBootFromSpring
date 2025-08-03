@@ -2,7 +2,9 @@ package com.com.springboot.LifeCycle;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
+import org.springframework.stereotype.Component;
 
+@Component
 public class LifeCycleUsingAnnotations {
 
     private String name;

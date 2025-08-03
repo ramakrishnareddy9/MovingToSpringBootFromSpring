@@ -1,4 +1,5 @@
 package com.com.springboot;
 
-public class Computer {
+public interface Computer {
+    void compile();
 }
